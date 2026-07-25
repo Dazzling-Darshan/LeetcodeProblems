@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -28,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
