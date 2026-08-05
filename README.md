@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Greedy
 |  |
@@ -109,8 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [1189-maximum-number-of-balloons](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
