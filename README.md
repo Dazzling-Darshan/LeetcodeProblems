@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2929-distribute-candies-among-children-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -131,9 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2929-distribute-candies-among-children-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
+## Combinatorics
+|  |
+| ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2929-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
