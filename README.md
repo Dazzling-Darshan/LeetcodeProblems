@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 ## Monotonic Stack
 |  |
 | ------- |
