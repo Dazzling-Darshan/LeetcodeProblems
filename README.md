@@ -169,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0620-not-boring-movies](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
