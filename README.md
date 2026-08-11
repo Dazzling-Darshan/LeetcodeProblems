@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0746-min-cost-climbing-stairs) |
+| [1207-unique-number-of-occurrences](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0621-task-scheduler](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Matrix
