@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0148-sort-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Divide and Conquer
 |  |
