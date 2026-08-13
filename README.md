@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -159,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [2352-equal-row-and-column-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2352-equal-row-and-column-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
 ## Combinatorics
 |  |
