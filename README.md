@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0933-number-of-recent-calls](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0933-number-of-recent-calls) |
 ## Number Theory
 |  |
 | ------- |
@@ -218,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
