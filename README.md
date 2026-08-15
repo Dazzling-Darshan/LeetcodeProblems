@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Array
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0746-min-cost-climbing-stairs) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2336-smallest-number-in-infinite-set) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
