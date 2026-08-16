@@ -214,12 +214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
 | ------- |
@@ -264,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0079-word-search) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
