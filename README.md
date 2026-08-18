@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -276,9 +278,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
