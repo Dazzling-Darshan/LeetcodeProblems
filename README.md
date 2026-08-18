@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0746-min-cost-climbing-stairs) |
+| [0994-rotting-oranges](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1971-find-if-path-exists-in-graph) |
