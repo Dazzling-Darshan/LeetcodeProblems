@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2929-distribute-candies-among-children-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2929-distribute-candies-among-children-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Sorting
 |  |
