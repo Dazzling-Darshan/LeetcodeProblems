@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0621-task-scheduler) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0621-task-scheduler](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
