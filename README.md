@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [0383-ransom-note](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
