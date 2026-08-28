@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
