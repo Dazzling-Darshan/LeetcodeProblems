@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2929-distribute-candies-among-children-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0733-flood-fill) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2336-smallest-number-in-infinite-set) |
 ## Number Theory
@@ -321,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1971-find-if-path-exists-in-graph) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
