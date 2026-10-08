@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1393-capital-gainloss) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [3475-dna-pattern-recognition](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3475-dna-pattern-recognition) |
 ## Sliding Window
 |  |
 | ------- |
