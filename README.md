@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0443-string-compression) |
+| [1021-remove-outermost-parentheses](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -350,5 +352,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
