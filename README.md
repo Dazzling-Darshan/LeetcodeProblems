@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2540-minimum-common-value](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2929-distribute-candies-among-children-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
