@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Array
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2540-minimum-common-value](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2540-minimum-common-value) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
