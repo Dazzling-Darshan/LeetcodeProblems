@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2929-distribute-candies-among-children-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
