@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/1768-merge-strings-alternately) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 ## Greedy
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
