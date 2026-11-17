@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0086-partition-list) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Dazzling-Darshan/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
